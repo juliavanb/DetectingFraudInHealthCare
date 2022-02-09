@@ -1,4 +1,4 @@
-### Detecting Fraud In Health Care
+# Detecting Fraud In Health Care
 Machine learning group project for DS 3000 to detect fraud by doctors using Python (Jupyter Notebook). 
 
 ## Summary
@@ -35,6 +35,7 @@ After an analysis of the machine learning algorithms:
  with and without feature selection and best parameters, k-Nearest Neightbors was found to be the most accurate.
  
 Training set: 95.2%
+
 Testing set: 87.7%
 
 
